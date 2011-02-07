@@ -54,8 +54,11 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     9. Arquivo de configuração (~/.gitconfig)
     10. Como usar o arquivo .gitignore
 
-	30. Submódulos/Subprojetos
-
     20. Usando o Eclipse+EGIT
+
+	30. Submódulos/Subprojetos
 		30.1. Procedimentos problemáticos no Submódulo
 		30.2. Trabalhando com Submódulos no Eclipse + EGIT    
+		
+	60. GitHub 
+	60.02 Criando HomePage para seu Projeto e seu Profile no GITHub 
