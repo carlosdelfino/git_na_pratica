@@ -1,13 +1,16 @@
-# Indice
-# O que é o GIT - 1
-# Instalação -> 2
-# Repositorio Local -> 3
-# Repositorio Remoto -> 4
-# Dia a Dia -> 5
+# Indice 									-> 00
+# O que é o GIT 							-> 01
+# Instalação 								-> 02
+# Repositorio Local 						-> 03
+# Repositorio Remoto 						-> 04
+# Dia a Dia 								-> 05
 
-# Submodulos - 30
+# Repositorios Publicos e Privados na Web	-> 08
+## GitHub 									-> 08.01
+## Assembla									-> 08.02
 
-# GitHub - 60 
-# Criando HomePage para seu Projeto e seu Profile no GITHub - 60.01 
+# Submodulos 								-> 30
+## Submodulos no GitHub 					-> 30.02 
 
-# Referencias -> 99
+
+# Referencias 								-> 99
