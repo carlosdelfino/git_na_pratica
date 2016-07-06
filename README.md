@@ -4,7 +4,7 @@ Manual git em português produzido coletivamente.
 
 Apostila Versão: {{ book.Version }}
 
-O Original deste manual pode ser encontrado em https://git-na-pratica.gitbooks.io/git-na-pratica/content/
+O Original Ofical desse manual pode ser encontrado em https://git-na-pratica.gitbooks.io/git-na-pratica/content/
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 Este Tutorial está liberado sobre a licença: [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
